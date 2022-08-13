@@ -14,7 +14,7 @@ w_n.setup(width = 650, height = 650)
 w_n.tracer(0)  
 
 head1 = turtle.Turtle()  
-head1.shape("triangle")  
+head1.shape("square")  
 head1.color("yellow")  
 head1.penup()  
 head1.goto(0, 0)  
